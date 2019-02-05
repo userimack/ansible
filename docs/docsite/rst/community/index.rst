@@ -39,6 +39,7 @@ Going deeper
 * I have a specific Ansible interest or expertise (for example, VMware, Linode, etc.). How do I get involved in a :ref:`working group <working_group_list>`?
 * I'd like to participate in conversations about features and fixes. How do I review GitHub issues and pull requests?
 * I found a typo or another problem on docs.ansible.com. How can I :ref:`improve the documentation <community_documentation_contributions>`?
+* I'm new to Git and GitHub, how do I use it: `Github getting started guide <https://lab.github.com/>`_.
 
 
 Working with the Ansible repo
